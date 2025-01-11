@@ -1,4 +1,4 @@
-# Repository and research
+# Repositories and research
 
 ## Agents applications:
 **Github**: 
